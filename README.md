@@ -23,8 +23,7 @@ Created the Qr-code card.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [qr-code-challenge](https://max-786.github.io/qr-code-challenge/)
 
 ## My process
 Made Qr-card using following steps:
