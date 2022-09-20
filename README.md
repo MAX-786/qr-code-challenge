@@ -50,7 +50,7 @@ Learned how to build components and divide them into seperate divs.
     and so on
   </div>
 </div>
-### Continued development
+```
 
 
 ## Author
