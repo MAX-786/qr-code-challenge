@@ -25,9 +25,8 @@ body {
 /* Card Positioning */
 
 .card {
-    margin: 10% auto;
     /* card holder */
-    width: 250px;
+    width: 15.625rem;
     height: auto;
     padding: 15px;
     background-color: hsl(0, 0%, 100%);
@@ -67,3 +66,7 @@ img {
 
 
 /* Footer */
+
+footer {
+    margin-top: 0.625rem;
+}
