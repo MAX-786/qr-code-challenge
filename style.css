@@ -4,7 +4,7 @@
 }
 
 .attribution {
-    font-size: 11px;
+    font-size: 0.6875rem;
     text-align: center;
 }
 
@@ -14,18 +14,19 @@
 
 body {
     background: hsl(212, 45%, 89%);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
 }
 
 
 /* Card Positioning */
 
-.card-holder {
-    display: flex;
-    justify-content: center;
-    margin: 10% 0;
-}
-
 .card {
+    margin: 10% auto;
+    /* card holder */
     width: 250px;
     height: auto;
     padding: 15px;
@@ -36,12 +37,6 @@ body {
 
 /* Card Top Half Part */
 
-.card-top {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-}
-
 img {
     width: 100%;
     border-radius: 10px;
@@ -51,21 +46,24 @@ img {
 /* Card Bottom Part */
 
 .card-bottom {
-    padding: 10px;
+    padding: 0.625rem;
     text-align: center;
     font-family: 'Outfit', sans-serif;
 }
 
 .card-header {
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
-    margin: 15px 0;
+    margin: 0.9375rem 0;
 }
 
 .card-content {
-    font-size: 15px;
+    font-size: 0.9375rem;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
-    margin: 20px 0;
+    margin: 1.25rem 0;
 }
+
+
+/* Footer */
